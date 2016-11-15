@@ -2,7 +2,7 @@
 MATLAB implementation of <b>"Structure-Texture Decomposition of Images with Interval Gradient"</b>
 
 ## Contributors
-Hyunjoon Lee<br>
+[Hyunjoon Lee](https://sites.google.com/site/eldercrow/) (eldercrow@postech.ac.kr)<br>
 [Junho Jeon](https://sites.google.com/site/zwitterion27/) (zwitterion27@postech.ac.kr)
 
 ## Citation
