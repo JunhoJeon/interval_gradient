@@ -3,7 +3,7 @@ MATLAB implementation of <b>"Structure-Texture Decomposition of Images with Inte
 
 ## Contributors
 [Hyunjoon Lee](https://sites.google.com/site/eldercrow/) (eldercrow@postech.ac.kr)<br>
-[Junho Jeon](https://sites.google.com/site/zwitterion27/) (zwitterion27@postech.ac.kr)
+[Junho Jeon](http://junhojeon.github.io/) (zwitterion27@postech.ac.kr)
 
 ## Citation
 Cite our papers if you find this software useful.<br>
